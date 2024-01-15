@@ -13,6 +13,22 @@
 		94BF903E2A28A74300D740B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94BF903C2A28A74300D740B2 /* Main.storyboard */; };
 		94BF90402A28A74400D740B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94BF903F2A28A74400D740B2 /* Assets.xcassets */; };
 		94BF90432A28A74400D740B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94BF90412A28A74400D740B2 /* LaunchScreen.storyboard */; };
+		94BF90702A28AF4500D740B2 /* watch-model.dae in Resources */ = {isa = PBXBuildFile; fileRef = 94BF906F2A28AF4500D740B2 /* watch-model.dae */; };
+		94BF907F2A28B2D100D740B2 /* 5.tga.png in Resources */ = {isa = PBXBuildFile; fileRef = 94BF90712A28B2D000D740B2 /* 5.tga.png */; };
+		94BF90802A28B2D100D740B2 /* 9.tga.png in Resources */ = {isa = PBXBuildFile; fileRef = 94BF90722A28B2D000D740B2 /* 9.tga.png */; };
+		94BF90812A28B2D100D740B2 /* 11.tga.png in Resources */ = {isa = PBXBuildFile; fileRef = 94BF90732A28B2D000D740B2 /* 11.tga.png */; };
+		94BF90822A28B2D100D740B2 /* chasiki4.tga.png in Resources */ = {isa = PBXBuildFile; fileRef = 94BF90742A28B2D000D740B2 /* chasiki4.tga.png */; };
+		94BF90832A28B2D100D740B2 /* chasiki.tga.png in Resources */ = {isa = PBXBuildFile; fileRef = 94BF90752A28B2D000D740B2 /* chasiki.tga.png */; };
+		94BF90842A28B2D100D740B2 /* 10.tga.png in Resources */ = {isa = PBXBuildFile; fileRef = 94BF90762A28B2D000D740B2 /* 10.tga.png */; };
+		94BF90852A28B2D100D740B2 /* 14.tga.png in Resources */ = {isa = PBXBuildFile; fileRef = 94BF90772A28B2D000D740B2 /* 14.tga.png */; };
+		94BF90862A28B2D100D740B2 /* chasiki2.tga.png in Resources */ = {isa = PBXBuildFile; fileRef = 94BF90782A28B2D100D740B2 /* chasiki2.tga.png */; };
+		94BF90872A28B2D100D740B2 /* 12.tga.png in Resources */ = {isa = PBXBuildFile; fileRef = 94BF90792A28B2D100D740B2 /* 12.tga.png */; };
+		94BF90882A28B2D100D740B2 /* 6.tga.png in Resources */ = {isa = PBXBuildFile; fileRef = 94BF907A2A28B2D100D740B2 /* 6.tga.png */; };
+		94BF90892A28B2D100D740B2 /* 15.tga.png in Resources */ = {isa = PBXBuildFile; fileRef = 94BF907B2A28B2D100D740B2 /* 15.tga.png */; };
+		94BF908A2A28B2D100D740B2 /* chasiki3.tga.png in Resources */ = {isa = PBXBuildFile; fileRef = 94BF907C2A28B2D100D740B2 /* chasiki3.tga.png */; };
+		94BF908B2A28B2D100D740B2 /* cifri.tga.png in Resources */ = {isa = PBXBuildFile; fileRef = 94BF907D2A28B2D100D740B2 /* cifri.tga.png */; };
+		94BF908C2A28B2D100D740B2 /* remeshok.tga.png in Resources */ = {isa = PBXBuildFile; fileRef = 94BF907E2A28B2D100D740B2 /* remeshok.tga.png */; };
+		94F28F142A3091C400D7C278 /* ChangeColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F28F132A3091C400D7C278 /* ChangeColors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +39,22 @@
 		94BF903D2A28A74300D740B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		94BF903F2A28A74400D740B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		94BF90422A28A74400D740B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		94BF906F2A28AF4500D740B2 /* watch-model.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; name = "watch-model.dae"; path = "../../../Downloads/adding-watch-real-world-2/start/ARWatch/ARWatch/watch-model.dae"; sourceTree = "<group>"; };
+		94BF90712A28B2D000D740B2 /* 5.tga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5.tga.png; path = "../../../Downloads/adding-watch-real-world-3/start/ARWatch/ARWatch/5.tga.png"; sourceTree = "<group>"; };
+		94BF90722A28B2D000D740B2 /* 9.tga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 9.tga.png; path = "../../../Downloads/adding-watch-real-world-3/start/ARWatch/ARWatch/9.tga.png"; sourceTree = "<group>"; };
+		94BF90732A28B2D000D740B2 /* 11.tga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 11.tga.png; path = "../../../Downloads/adding-watch-real-world-3/start/ARWatch/ARWatch/11.tga.png"; sourceTree = "<group>"; };
+		94BF90742A28B2D000D740B2 /* chasiki4.tga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = chasiki4.tga.png; path = "../../../Downloads/adding-watch-real-world-3/start/ARWatch/ARWatch/chasiki4.tga.png"; sourceTree = "<group>"; };
+		94BF90752A28B2D000D740B2 /* chasiki.tga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = chasiki.tga.png; path = "../../../Downloads/adding-watch-real-world-3/start/ARWatch/ARWatch/chasiki.tga.png"; sourceTree = "<group>"; };
+		94BF90762A28B2D000D740B2 /* 10.tga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 10.tga.png; path = "../../../Downloads/adding-watch-real-world-3/start/ARWatch/ARWatch/10.tga.png"; sourceTree = "<group>"; };
+		94BF90772A28B2D000D740B2 /* 14.tga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 14.tga.png; path = "../../../Downloads/adding-watch-real-world-3/start/ARWatch/ARWatch/14.tga.png"; sourceTree = "<group>"; };
+		94BF90782A28B2D100D740B2 /* chasiki2.tga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = chasiki2.tga.png; path = "../../../Downloads/adding-watch-real-world-3/start/ARWatch/ARWatch/chasiki2.tga.png"; sourceTree = "<group>"; };
+		94BF90792A28B2D100D740B2 /* 12.tga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 12.tga.png; path = "../../../Downloads/adding-watch-real-world-3/start/ARWatch/ARWatch/12.tga.png"; sourceTree = "<group>"; };
+		94BF907A2A28B2D100D740B2 /* 6.tga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 6.tga.png; path = "../../../Downloads/adding-watch-real-world-3/start/ARWatch/ARWatch/6.tga.png"; sourceTree = "<group>"; };
+		94BF907B2A28B2D100D740B2 /* 15.tga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 15.tga.png; path = "../../../Downloads/adding-watch-real-world-3/start/ARWatch/ARWatch/15.tga.png"; sourceTree = "<group>"; };
+		94BF907C2A28B2D100D740B2 /* chasiki3.tga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = chasiki3.tga.png; path = "../../../Downloads/adding-watch-real-world-3/start/ARWatch/ARWatch/chasiki3.tga.png"; sourceTree = "<group>"; };
+		94BF907D2A28B2D100D740B2 /* cifri.tga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cifri.tga.png; path = "../../../Downloads/adding-watch-real-world-3/start/ARWatch/ARWatch/cifri.tga.png"; sourceTree = "<group>"; };
+		94BF907E2A28B2D100D740B2 /* remeshok.tga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = remeshok.tga.png; path = "../../../Downloads/adding-watch-real-world-3/start/ARWatch/ARWatch/remeshok.tga.png"; sourceTree = "<group>"; };
+		94F28F132A3091C400D7C278 /* ChangeColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeColors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,14 +87,38 @@
 		94BF90352A28A74300D740B2 /* FinalProject */ = {
 			isa = PBXGroup;
 			children = (
+				94F28F122A30916300D7C278 /* changesColor */,
 				94BF90362A28A74300D740B2 /* AppDelegate.swift */,
-				94BF90382A28A74300D740B2 /* art.scnassets */,
 				94BF903A2A28A74300D740B2 /* ViewController.swift */,
+				94BF90382A28A74300D740B2 /* art.scnassets */,
 				94BF903C2A28A74300D740B2 /* Main.storyboard */,
+				94BF906F2A28AF4500D740B2 /* watch-model.dae */,
+				94BF90712A28B2D000D740B2 /* 5.tga.png */,
+				94BF907A2A28B2D100D740B2 /* 6.tga.png */,
+				94BF90722A28B2D000D740B2 /* 9.tga.png */,
+				94BF90762A28B2D000D740B2 /* 10.tga.png */,
+				94BF90732A28B2D000D740B2 /* 11.tga.png */,
+				94BF90792A28B2D100D740B2 /* 12.tga.png */,
+				94BF90772A28B2D000D740B2 /* 14.tga.png */,
+				94BF907B2A28B2D100D740B2 /* 15.tga.png */,
+				94BF90752A28B2D000D740B2 /* chasiki.tga.png */,
+				94BF90782A28B2D100D740B2 /* chasiki2.tga.png */,
+				94BF907C2A28B2D100D740B2 /* chasiki3.tga.png */,
+				94BF90742A28B2D000D740B2 /* chasiki4.tga.png */,
+				94BF907D2A28B2D100D740B2 /* cifri.tga.png */,
+				94BF907E2A28B2D100D740B2 /* remeshok.tga.png */,
 				94BF903F2A28A74400D740B2 /* Assets.xcassets */,
 				94BF90412A28A74400D740B2 /* LaunchScreen.storyboard */,
 			);
 			path = FinalProject;
+			sourceTree = "<group>";
+		};
+		94F28F122A30916300D7C278 /* changesColor */ = {
+			isa = PBXGroup;
+			children = (
+				94F28F132A3091C400D7C278 /* ChangeColors.swift */,
+			);
+			path = changesColor;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,10 +179,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94BF90852A28B2D100D740B2 /* 14.tga.png in Resources */,
+				94BF90702A28AF4500D740B2 /* watch-model.dae in Resources */,
+				94BF90882A28B2D100D740B2 /* 6.tga.png in Resources */,
+				94BF90812A28B2D100D740B2 /* 11.tga.png in Resources */,
+				94BF908C2A28B2D100D740B2 /* remeshok.tga.png in Resources */,
+				94BF908A2A28B2D100D740B2 /* chasiki3.tga.png in Resources */,
+				94BF907F2A28B2D100D740B2 /* 5.tga.png in Resources */,
 				94BF90392A28A74300D740B2 /* art.scnassets in Resources */,
+				94BF90832A28B2D100D740B2 /* chasiki.tga.png in Resources */,
 				94BF90432A28A74400D740B2 /* LaunchScreen.storyboard in Resources */,
+				94BF90802A28B2D100D740B2 /* 9.tga.png in Resources */,
 				94BF90402A28A74400D740B2 /* Assets.xcassets in Resources */,
+				94BF908B2A28B2D100D740B2 /* cifri.tga.png in Resources */,
+				94BF90842A28B2D100D740B2 /* 10.tga.png in Resources */,
+				94BF90822A28B2D100D740B2 /* chasiki4.tga.png in Resources */,
 				94BF903E2A28A74300D740B2 /* Main.storyboard in Resources */,
+				94BF90892A28B2D100D740B2 /* 15.tga.png in Resources */,
+				94BF90872A28B2D100D740B2 /* 12.tga.png in Resources */,
+				94BF90862A28B2D100D740B2 /* chasiki2.tga.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +209,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				94BF903B2A28A74300D740B2 /* ViewController.swift in Sources */,
+				94F28F142A3091C400D7C278 /* ChangeColors.swift in Sources */,
 				94BF90372A28A74300D740B2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -295,6 +367,7 @@
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -325,6 +398,7 @@
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
